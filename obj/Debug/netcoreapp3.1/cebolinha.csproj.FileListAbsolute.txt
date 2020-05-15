@@ -1,0 +1,11 @@
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.csprojAssemblyReference.cache
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.AssemblyInfoInputs.cache
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.AssemblyInfo.cs
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.exe
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.deps.json
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.runtimeconfig.json
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.runtimeconfig.dev.json
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.dll
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\bin\Debug\netcoreapp3.1\cebolinha.pdb
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.dll
+C:\Users\Maria Luiza\Documents\Luiza\cebolinha\cebolinha\obj\Debug\netcoreapp3.1\cebolinha.pdb
